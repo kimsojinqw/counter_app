@@ -1,5 +1,6 @@
 <template>
   <div class="score">
+    <h1>Score</h1>
     <p>{{ count }}</p>
   </div>
 </template>
